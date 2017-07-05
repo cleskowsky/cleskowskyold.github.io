@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'll fill this out a bit more at some point but for now I don't mind leaving this here ...
+I'll fill this out a bit more at some point but for now I don't mind leaving these here ...
 
 I live in Toronto, Ontario, Canada.
 
