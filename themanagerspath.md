@@ -19,3 +19,5 @@ Create a 30/60/90 day plan: basic goals (these I like as starter ones ... will u
 
 New hires provide an opportunity to hear about their initial experience with the team. What was great? What could've been better?
 
+Jeff is like Sharell and Beth. He communicates intent, motivation and gives room to let me figure out a path through the work. He's there if / when he's needed and can hop in when necessary. eg Release 4 needed a cross team effort in devtools to get to a rel4 dev cluster from the GUI.
+
