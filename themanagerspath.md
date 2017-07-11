@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Notes: The Manager's Path
+title: The Manager's Path
 permalink: /themanagerspath/
 ---
 
+# Chapter 4 Managing people
+
 "Entry level job" - Chapter 4 first quote, Marc Hedlund :)
 
-# Chapter 4 Managing people
+__Key points__
 
 - 1on1s
 - onboarding
