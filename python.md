@@ -60,4 +60,15 @@ Packages: random, statistics, list
 
 ## Lesson 2 Analyzing data using simulations and resampling
 
-Pick up 6.45m in to first module
+    # Floor division
+    6 // 3 = 2
+
+    # True division
+    6 / 3 = 2.0
+
+Simulates the toss of a coin, the spin of a roulette wheel. Kind of fascinating.
+
+    population = ['heads', 'tails']
+    weights = [0.60, 1.00]
+    choices(population, weights, k=6)
+    # ['heads', 'heads', 'tails', ...]
