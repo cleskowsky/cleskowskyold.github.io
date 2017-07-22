@@ -4,7 +4,16 @@ title: Python
 permalink: /python/
 ---
 
-# Safari Video: Moderm Python LiveLessons, Raymond Hettinger
+# Testing Libraries
+
+- doctest : runs testcases encoded in doc comments as examples
+- hypothesis : fuzz testing (test case input generator, very configurable with constraints)
+- itertools : data driven testing (similar to hypothesis)
+- mypy : annotate definitions (class, func) with types that can be tested statically
+- pyflakes : basic static analysis
+- pytest : unit test framework
+
+# Safari Video: Modern Python LiveLessons, Raymond Hettinger
 
 ## Lesson 1 Basic python for data analytics
 

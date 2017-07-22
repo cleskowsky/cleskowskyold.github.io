@@ -24,4 +24,4 @@ __Week 10__
 - medium: 1.5k easy, 8k mid tempo (5m10s / km), 1.5k easy
 - slow: 19k @ hmp + 19
 - 2 days crosstraining
-- 1 or days strength
+- 1 day strength
