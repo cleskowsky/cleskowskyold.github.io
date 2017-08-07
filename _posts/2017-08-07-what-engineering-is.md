@@ -4,7 +4,7 @@ title:  "What Engineering Is ..."
 tags: insightful seniorengineers
 ---
 
-A thoughtful piece written in response to a less thoughtful one.
+A thoughtful piece written in response to something less thoughtful ...
 
 > And once you’ve understood the system, and worked out what has to be built, do you retreat to a cave and start writing code? If you’re a hobbyist, yes. If you’re a professional, especially one working on systems that can use terms like “planet-scale” and “carrier-class” without the slightest exaggeration, then you’ll quickly find that the large bulk of your job is about coordinating and cooperating with other groups. It’s about making sure you’re all building one system, instead of twenty different ones; about making sure that dependencies and risks are managed, about designing the right modularity boundaries that make it easy to continue to innovate in the future, about preemptively managing the sorts of dangers that teams like SRE, Security, Privacy, and Abuse are the experts in catching before they turn your project into rubble.
 
