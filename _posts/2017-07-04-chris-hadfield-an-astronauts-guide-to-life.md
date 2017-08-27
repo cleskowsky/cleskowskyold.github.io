@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes : An Astronaut's Guide To Life"
+title:  "Notes : An Astronaut's Guide to Life"
 tags: books
 ---
 
