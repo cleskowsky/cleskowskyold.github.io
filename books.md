@@ -9,5 +9,3 @@ permalink: /books/
 [The Google SRE Book](/2017/08/27/srebook.html) by Various Authors
 
 [The Manager's Path](/2017/08/27/the-managers-path.html) by Camille Fournier
-
-1

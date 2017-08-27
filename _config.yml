@@ -7,6 +7,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CLeskowsky
 github_username:  czaleskowsky
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: minima
 gems:
   - jekyll-feed
