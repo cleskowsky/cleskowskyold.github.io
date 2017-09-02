@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Production Friendly Services"
-tags: operations
+tags: tech
 ---
 
 # About
