@@ -4,8 +4,15 @@ title: Books
 permalink: /books/
 ---
 
-[An Astronaut's Guide to Life](/2017/07/04/chris-hadfield-an-astronauts-guide-to-life.html) by Chris Hadfield
+# Reading
 
-[The Google SRE Book](/2017/08/27/srebook.html) by Various Authors
+- Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer
+- Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead
 
-[The Manager's Path](/2017/08/27/the-managers-path.html) by Camille Fournier
+# Notes
+
+- [Creativity Inc](/2017/09/01/creativity-inc.html) by Ed Catmull
+
+- [An Astronaut's Guide to Life](/2017/07/04/chris-hadfield-an-astronauts-guide-to-life.html) by Chris Hadfield
+
+- [The Manager's Path](/2017/08/27/the-managers-path.html) by Camille Fournier
