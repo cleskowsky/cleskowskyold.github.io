@@ -6,7 +6,7 @@ permalink: /books/
 
 # Reading
 
-- Accelerate
+- Release It! 2nd Ed
 - The First 90 Days
 - Great at Work: How Top Performers Do Less, Work Better, and Achieve More
 
