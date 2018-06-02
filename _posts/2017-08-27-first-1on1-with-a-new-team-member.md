@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Questions for a first 1:1 with a new team member
+tags: work leadership
 ---
 
 # Happy
