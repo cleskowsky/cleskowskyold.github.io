@@ -4,6 +4,6 @@ title: Work
 permalink: /work/
 ---
 
-# Senior
+# On Being Senior
 
-- [A senior engineer ...](/2018/06/02/senior-engineers.html)
+- [Senior Engineers](/2018/06/02/senior-engineers.html)

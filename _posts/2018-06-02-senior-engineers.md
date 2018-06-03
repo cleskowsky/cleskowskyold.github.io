@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A senior engineer ..."
+title:  "Senior Engineers"
 tags: work seniorengineers
 ---
 
