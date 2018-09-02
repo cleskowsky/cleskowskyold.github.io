@@ -17,3 +17,10 @@ Source: [Advice to Someone Just Entering Our Industry, James Hamilton](http://pe
 # Shifu
 
 ![Shifu On Reaching - Dreamworks]({{ site.url }}/assets/img/shifu-t-shirt-teeturtle-dreamworks_1_800x.jpg)
+
+# Blindness
+
+Where are the gaps in what I'm able so see? Are they there because I don't want to see or am ignorant, or ... ?
+
+Being open to new information, and alternate view points is a start towards defending against mistakes caused by this.
+
