@@ -17,3 +17,11 @@ permalink: /reading/
 - Devops Weekly, gmail: devopsweekly
 - Golang Weekly, gmail: golangweekly
 - Monitoring Weekly, gmail: monitoringweekly
+
+# My re-read list
+
+These are the articles I go back to regularly, because for me, they've had the biggest impact on the way I think about group work and my craft:
+
+- [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- [A Mature Role for Automation](https://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/)
+- [Convergence to Kubernetes](https://medium.com/@pingles/convergence-to-kubernetes-137ffa7ea2bc)
