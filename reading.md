@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What I'm Reading
-permalink: /readinglist/
+permalink: /reading/
 ---
 
 # Notes
