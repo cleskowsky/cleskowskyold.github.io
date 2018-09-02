@@ -4,14 +4,9 @@ title: Books
 permalink: /books/
 ---
 
-# Reading
-
-- Release It! 2nd Ed
-- The First 90 Days
-- Great at Work: How Top Performers Do Less, Work Better, and Achieve More
-
 # Notes
 
+- [How F*cked Up is Your Management](/2018/09/02/how-fucked-up-is-your-management.html) by Johnathan and Melissa Nightingale
 - [Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer](/2018/03/29/mars-rover-curiosity.html) by Rob Manning & William L. Simon
 - [The Manager's Path](/2017/08/27/the-managers-path.html) by Camille Fournier
 - [Creativity Inc](/2017/09/01/creativity-inc.html) by Ed Catmull
