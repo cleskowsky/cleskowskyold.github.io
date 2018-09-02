@@ -14,5 +14,5 @@ permalink: /reading/
 
 # Mailing Lists
 
-- Devops Weekly
-  - Gmail label : devopsweekly
+- Devops Weekly, gmail: devopsweekly
+- Golang Weekly, gmail: golangweekly
