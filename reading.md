@@ -16,3 +16,4 @@ permalink: /reading/
 
 - Devops Weekly, gmail: devopsweekly
 - Golang Weekly, gmail: golangweekly
+- Monitoring Weekly, gmail: monitoringweekly
