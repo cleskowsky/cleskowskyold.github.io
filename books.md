@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Books
-permalink: /books/
+title: What I'm Reading
+permalink: /readinglist/
 ---
 
 # Notes
@@ -11,3 +11,8 @@ permalink: /books/
 - [The Manager's Path](/2017/08/27/the-managers-path.html) by Camille Fournier
 - [Creativity Inc](/2017/09/01/creativity-inc.html) by Ed Catmull
 - [An Astronaut's Guide to Life](/2017/07/04/chris-hadfield-an-astronauts-guide-to-life.html) by Chris Hadfield
+
+# Mailing Lists
+
+- Devops Weekly
+  - Gmail label : devopsweekly
