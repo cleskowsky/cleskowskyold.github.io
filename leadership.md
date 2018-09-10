@@ -10,11 +10,11 @@ Jason Fried has some timely advice for me today. Namely the benefits to working 
 
 ![long projects]({{ site.url }}/assets/img/leadership/long-time-horizon.png)
 
-Peak energy for long duration projects high at kickoff, then tapers off gradually
+Peak energy for long duration projects high at kickoff, then tapers off
 
 ![short projects]({{ site.url }}/assets/img/leadership/short-time-horizons.png)
 
-Peak energy for short duration projects renews every cycle
+Peak energy for projects delivered iteratively renews every cycle
 
 # Links
 
