@@ -19,3 +19,7 @@ Peak energy for projects delivered iteratively renews every cycle
 # Links
 
 - [Short Time Horizons, Jason Fried, 37signals](https://m.signalvnoise.com/short-time-horizons-keep-it-fresh-eef462d4ca50)
+
+## 1:1s
+
+- [Simple prep for your next 1:1](https://m.signalvnoise.com/managers-youre-not-prepared-for-your-one-on-one-meetings-here-s-what-to-do-163b1812904b)
