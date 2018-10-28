@@ -4,6 +4,12 @@ title: Leadership
 permalink: /leadership/
 ---
 
+# Growth
+
+> At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind.  It costs you relatively little to do this, but the benefit to them, and to the broader world, may be enormous. - Tyler Cowen
+
+[soure](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html)
+
 # Building New Stuff (Product Management)
 
 - [Michael Cote @Pivotal](https://medium.com/@cote/a-small-series-of-projects-d6107c3d9d3e)
