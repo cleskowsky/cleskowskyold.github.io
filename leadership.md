@@ -10,17 +10,9 @@ permalink: /leadership/
 
 [source](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html)
 
-# Building New Stuff (Product Management)
+# Starting a movement
 
-- [Michael Cote @Pivotal](https://medium.com/@cote/a-small-series-of-projects-d6107c3d9d3e)
-
-How to think about / start bigger cultural+tech transformations at companies. How to select initial products to move:
-- Group exercise!
-- Eisenhower matrix
-- Get stakeholders into a room and ask each for their top projects. Arrange on 4 square grid important / urgent. Couple of tricks for concensus.
-  - [Dot voting + other decision making techniques](https://content.pivotal.io/blog/6-decision-making-techniques-all-product-managers-should-know#f923)
-
-How to build momentum. How to avoid fast failure with forces that would avoid change. (Status quo is a hard hill to climb. "But I really need to get my stuff done. I don't have time to try this new thing!")
+Building momentum is hard. How do you avoid fast failure with forces that would avoid change? Status quo is a hard hill to climb : "But I really need to get my stuff done. I don't have time to try this new thing!"
 
 # Time horizons, iterations, small batches
 
@@ -34,9 +26,14 @@ Peak energy for long duration projects high at kickoff, then tapers off
 
 Peak energy for projects delivered iteratively renews every cycle
 
+# Books
+
+- [High Output Management](https://czaleskowsky.github.io/2018/12/25/high-output-management.html)
+
 # Links
 
 - [Short Time Horizons, Jason Fried, 37signals](https://m.signalvnoise.com/short-time-horizons-keep-it-fresh-eef462d4ca50)
+- [Safety II](https://czaleskowsky.github.io/2018/11/15/safety-2.html)
 
 ## 1:1s
 

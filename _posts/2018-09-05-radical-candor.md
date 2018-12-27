@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  "Radical Candor"
-tags: books
+tags: books leadership notes
 ---
