@@ -14,6 +14,19 @@ permalink: /leadership/
 
 Building momentum is hard. How do you avoid fast failure with forces that would avoid change? Status quo is a hard hill to climb : "But I really need to get my stuff done. I don't have time to try this new thing!"
 
+## Specs
+
+> If you want someone to help, you’ll do better with a spec. It lists just four things:
+> 
+> 1. What is the problem to be solved?
+> 2. How are we going to solve it?
+> 3. How can we test that the thing we built matches what we set out to build?
+> 4. How will we know if it’s working?
+> 
+> While there are only four steps, the specificity of each step is essential. The spec for a 787 jet, for example, leaves very little room for argument about what’s being created. On the other hand, “I’ll know it when I see it,” isn’t at all helpful.
+> 
+> If you’re not spending at least 5% of your project budget on the spec, you might be doing it wrong.
+
 # Time horizons, iterations, small batches
 
 Jason Fried has some timely advice for me today. Namely the benefits to working in small batches can have psychological impacts in addition to business, workflow ones:
@@ -34,6 +47,7 @@ Peak energy for projects delivered iteratively renews every cycle
 
 - [Short Time Horizons, Jason Fried, 37signals](https://m.signalvnoise.com/short-time-horizons-keep-it-fresh-eef462d4ca50)
 - [Safety II](https://czaleskowsky.github.io/2018/11/15/safety-2.html)
+- [Seth on the importance of specs](https://seths.blog/2018/12/creating-a-useful-spec/)
 
 ## 1:1s
 
