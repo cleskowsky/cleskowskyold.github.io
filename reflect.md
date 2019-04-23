@@ -23,7 +23,7 @@ How to create a movement
 - humility, ask people what they're doing because you don't know and would love to help if you can <-don't tell them they're doing things wrong
 - specific solutions+tools aren't important, make sure you get the higher order goals
 - make it easy, people have important work to do <-don't make their lives harder than they are now
-- [CASE](http://onemogin.com/monitoring/case-method-better-monitoring-for-humans.html) !!
+- [CASE](http://onemogin.com/monitoring/case-method-better-monitoring-for-humans.html) !! (Context heavy, actionable, symptom based, evaluated regularly)
 
 ![Context heavy alerts]({{ site.url }}/img/reflect/corywatson-context-heavy-alerts.png)
 
