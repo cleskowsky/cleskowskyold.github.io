@@ -1,3 +1,9 @@
+---
+layout: page
+title: Ops
+permalink: /ops/
+---
+
 # About
 
 Personal notes and reflections across all my experience - and the experience of others! - about what a healthy production support team practice looks like.
