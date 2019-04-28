@@ -4,12 +4,18 @@ title: Linux
 permalink: /linux/
 ---
 
-# CentOS/7, redhat
+# CentOS
 
-List installed packages
+## List installed packages
 
 ```bash
 yum list installed
+```
+
+## What version am I running?
+
+```bash
+cat /etc/system-release
 ```
 
 # Perf
