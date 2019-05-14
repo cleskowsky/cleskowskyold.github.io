@@ -8,6 +8,10 @@ permalink: /ops/
 
 Personal notes and reflections across all my experience - and the experience of others! - about what a healthy production support team practice looks like.
 
+# Mikey Dickerson Hierarchy
+
+![Service reliability hierarchy]({{ site.url }}/img/service_reliability_hierarchy.png)
+
 # Books
 
 These books have influenced my thinking immensely. Thanks so much to their respective authors.
