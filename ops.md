@@ -10,7 +10,7 @@ Personal notes and reflections across all my experience - and the experience of 
 
 # Mikey Dickerson Hierarchy
 
-![Service reliability hierarchy]({{ site.url }}/img/service_reliability_hierarchy.png)
+![Service reliability hierarchy]({{ site.url }}/img/ops/service_reliability_hierarchy.png)
 
 # Books
 
