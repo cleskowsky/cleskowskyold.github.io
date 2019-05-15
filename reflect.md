@@ -4,6 +4,10 @@ title: Reflect
 permalink: /reflect/
 ---
 
+# May 2019
+
+![Resilience in complex, adaptive systems]({{ site.url }}/img/posts/resilience-in-complex-adaptive-systems.jpeg)
+
 # April 2019
 
 ----
