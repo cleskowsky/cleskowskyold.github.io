@@ -9,13 +9,14 @@ permalink: /linux/
 ## List installed packages
 
 ```bash
+# list installed packages
 yum list installed
-```
 
-## What version am I running?
-
-```bash
+# what version am I running?
 cat /etc/system-release
+
+# is selinux enabled?
+getenforce
 ```
 
 # Perf
