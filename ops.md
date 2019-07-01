@@ -12,6 +12,10 @@ Personal notes and reflections across all my experience - and the experience of 
 
 ![Service reliability hierarchy]({{ site.url }}/img/ops/service_reliability_hierarchy.png)
 
+# Resilient systems
+
+![resilient systems]({{ site.url }}/img/posts/resilience-in-complex-adaptive-systems.jpeg)
+
 # Books
 
 These books have influenced my thinking immensely. Thanks so much to their respective authors.
