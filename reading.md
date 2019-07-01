@@ -8,6 +8,9 @@ permalink: /reading/
 
 - Being Mortal, Atul Gawande
 - Educated, Tara Westover
+- Skyward, Brandon Sanderson
+- The Box, Marc Levinson
+- Stumbling On Happiness, Daniel Gilbert
 
 # 2018
 
@@ -24,4 +27,3 @@ permalink: /reading/
 
 - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [A Mature Role for Automation](https://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/)
-
