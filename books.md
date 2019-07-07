@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What I'm Reading
-permalink: /reading/
+title: Books
+permalink: /books/
 ---
 
 # 2019
@@ -11,6 +11,7 @@ permalink: /reading/
 - Skyward, Brandon Sanderson
 - The Box, Marc Levinson
 - Stumbling On Happiness, Daniel Gilbert
+- Head on, John Scalzi (Book 2: The Lock In Series)
 
 # 2018
 
