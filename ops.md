@@ -32,3 +32,5 @@ Stories should be written to fit INVEST criteria:
 - Estimate-able : You should have some sense of how long a thing will take. If you're not confident, research is required
 - Small : Much less than a full sprint. I've found a day's worth of effort to be good
 - Tested : How do you know you're done?
+
+[source](http://agileinaflash.blogspot.com/2009/02/invest.html)
