@@ -34,3 +34,30 @@ Stories should be written to fit INVEST criteria:
 - Tested : How do you know you're done?
 
 [source](http://agileinaflash.blogspot.com/2009/02/invest.html)
+
+# Alerting
+
+Interrupting humans is expensive. (Urgent things are stressful and we’re not doing the thing we actually want done.) Ideally we avoid poking people unless a human actually should get involved, and we provide as much context as we can to get started with looking into a problem. (eg Here’s the detected condition, here’s the alarm that fired, here’s how to go about investigating …)
+
+Every alert should:
+
+- Have rich Context
+- Be Actionable
+- Be Symptom related
+- Be regularly Evaluated. Is this alert still relevant
+
+CASE
+
+[source](http://onemogin.com/monitoring/case-method-better-monitoring-for-humans.html)
+
+# Production Readiness
+
+A few things I’ve found that help guide a conversation with developers around what operating a service in production will be like:
+
+- What is the service criticality? If it’s down, should we wake someone up? Who?
+- What are the service key metrics? Which indicators tell us something interesting is happening? Are these metrics being collected?
+- Is it well tested? Is a CI job setup and running builds and tests often? (Automated tests – units, functional, integration, performance, security, visual.)
+- Are logs and exceptions collected? Do we need a rotation policy?
+- Is there data that should be backed up?
+- Has a security review happened? Threat modelling?
+- Should we think about ETL?
