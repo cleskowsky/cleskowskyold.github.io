@@ -12,6 +12,13 @@ permalink: /books/
 - The Box, Marc Levinson
 - Stumbling On Happiness, Daniel Gilbert
 - Head on, John Scalzi (Book 2: The Lock In Series)
+- The Legion and the Lioness (World Apart #1)
+- Data and Goliath
+- Supernova in the East I & II, Dan Carlin’s Hardcore History Podcast
+- Effective Java : I figured a quick skim of this was worthwhile since I’m starting to work in Java again. It was a great read back in the day and has even been updated a bit for more recent versions of the language!
+- Shogun
+- Starsight
+- The Unicorn Project
 
 # 2018
 
