@@ -6,4 +6,4 @@ tags: quotes
 
 Truth. And so much more than serverless ...
 
-![quote]({{ site.url }}/assets/img/reality-of-serverless.jpg)
+![quote]({{ site.url }}/images/reality-of-serverless.jpg)

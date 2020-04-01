@@ -4,7 +4,7 @@ title:  "How F*cked Up is Your Management"
 tags: books
 ---
 
-![Book cover]({{ site.url }}/assets/img/fed-up-mgmt-cover.jpg)
+![Book cover]({{ site.url }}/images/fed-up-mgmt-cover.jpg)
 
 # Underground club session #2
 

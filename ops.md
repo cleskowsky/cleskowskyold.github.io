@@ -10,11 +10,11 @@ Personal notes and reflections across all my experience - and the experience of 
 
 # Mikey Dickerson Hierarchy
 
-![Service reliability hierarchy]({{ site.url }}/img/ops/service_reliability_hierarchy.png)
+![Service reliability hierarchy]({{ site.url }}/images/service_reliability_hierarchy.png)
 
 # Resilient systems
 
-![resilient systems]({{ site.url }}/img/posts/resilience-in-complex-adaptive-systems.jpeg)
+![resilient systems]({{ site.url }}/images/resilience-in-complex-adaptive-systems.jpeg)
 
 # Books
 

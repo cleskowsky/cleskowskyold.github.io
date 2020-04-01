@@ -19,7 +19,7 @@ Noise is harmful to us
 
 Nice reminder that noise coming from our alarming systems has a cost. Alert fatigue.
 
-![Quality decay]({{ site.url }}/img/monitorama-quality-decay.png)
+![Quality decay]({{ site.url }}/images/monitorama-quality-decay.png)
 
 Use your calendar
 
@@ -38,4 +38,4 @@ Fave alert : "The database is using too little memory" LOL !!!
 
 Alert grooming: With some regularity revisit each from the previous week and ask "was it needed?" "how did we resolve situation?" "can we automate?" "is it permanent?" ...
 
-![Alert grooming]({{ site.url }}/img/monitorama-alert-grooming.png)
+![Alert grooming]({{ site.url }}/images/monitorama-alert-grooming.png)

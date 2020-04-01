@@ -26,7 +26,7 @@ A mistake where a program was getting values in units it wasn't expecting caused
 
 A visual aid to quickly capture ideas for landing the rover:
 
-![Mars EDL Possibilities]({{ site.url }}/assets/img/mars-edl-possibilities.png)
+![Mars EDL Possibilities]({{ site.url }}/images/mars-edl-possibilities.png)
 
 There was a lot of time between project kickoff and concensus where people just weren't ready to make a decision. Lots of people involved
 

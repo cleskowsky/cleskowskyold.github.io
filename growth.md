@@ -16,7 +16,7 @@ Source: [Advice to Someone Just Entering Our Industry, James Hamilton](http://pe
 
 # Shifu
 
-![Shifu On Reaching - Dreamworks]({{ site.url }}/assets/img/shifu-t-shirt-teeturtle-dreamworks_1_800x.jpg)
+![Shifu On Reaching - Dreamworks]({{ site.url }}/images/shifu-t-shirt-teeturtle-dreamworks_1_800x.jpg)
 
 # Blindness
 

@@ -8,7 +8,7 @@ tags: books
 
 Ed talks about a personal dilemma at the beginning of the book. After wrapping up production of Toy Story and releasing it to the world he wasn't sure what he would do next. He'd done what he set out to by proving a movie could be made with a story that audiences everywhere could relate to and be moved by using computer graphics. He was pretty sure making another movie wasn't what he wanted to do next. Fostering sustainable creative culture in a community of artists, writers, producers, directors and everybody else on the team would be his next great adventure ...
 
-![Creativity Inc](/assets/img/creativityinc.jpg)
+![Creativity Inc](/images/creativityinc.jpg)
 
 # Chapter 1
 
