@@ -4,15 +4,15 @@ title: Ops
 permalink: /ops/
 ---
 
-# Tools
+# Reference Pages
 
-[linux]({% post_url 2020-04-10-linux %}) [ansible]({% post_url 2020-04-10-ansible %})
+[linux]({% post_url 2020-04-10-linux %}), [ansible]({% post_url 2020-04-10-ansible %})
 
 # Mikey Dickerson Hierarchy
 
 ![Service reliability hierarchy]({{ site.url }}/images/service_reliability_hierarchy.png)
 
-# Resilient systems
+# Resilient Systems
 
 ![resilient systems]({{ site.url }}/images/resilience-in-complex-adaptive-systems.jpeg)
 
