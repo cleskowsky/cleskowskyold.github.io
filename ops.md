@@ -4,9 +4,9 @@ title: Ops
 permalink: /ops/
 ---
 
-# About
+# Tools
 
-Personal notes and reflections across all my experience - and the experience of others! - about what a healthy production support team practice looks like.
+[linux]({% post_url 2020-04-10-linux %}) [ansible]({% post_url 2020-04-10-ansible %})
 
 # Mikey Dickerson Hierarchy
 
