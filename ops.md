@@ -4,10 +4,6 @@ title: Ops
 permalink: /ops/
 ---
 
-# Reference Pages
-
-[linux]({% post_url 2020-04-10-linux %}), [ansible]({% post_url 2020-04-10-ansible %})
-
 # Mikey Dickerson Hierarchy
 
 ![Service reliability hierarchy]({{ site.url }}/images/service_reliability_hierarchy.png)
