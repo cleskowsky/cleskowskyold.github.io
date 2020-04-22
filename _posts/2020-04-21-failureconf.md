@@ -45,7 +45,10 @@ Serious stuff. How are we able to function during and post threat situations
 post traumatic stress : these feelings can be felt whether you're in a life and situation or not 
 
 + arousal, sympathetic, settle, parasympathetic
+![a healthy nervous system](/images/failoverconf/Screen Shot 2020-04-21 at 11.47.02 AM.png)
+
 + symptoms of un-discharged traumatic stress
+![undischarged traumatic stress](/images/failoverconf/Screen Shot 2020-04-21 at 11.47.14 AM.png)
 
 ### Hyperarousal == "Being constantly on"
 + Takes energy away from regular work
@@ -57,7 +60,7 @@ post traumatic stress : these feelings can be felt whether you're in a life and 
 
 "What are the contributing factors in an incident vs looking for root cause"
 
-![resilient organisations](images/failoverconf/Screen Shot 2020-04-21 at 11.54.01 AM.png)
+![resilient organisations](/images/failoverconf/Screen Shot 2020-04-21 at 11.54.01 AM.png)
 
 Why game days : to make people comfortable (calm) in stressful environments. It's not about making people better at debugging. What are your processes like that move events forward and create environments people can operate in. Psychologic safety. "The incident response process is normal. It's fine. Work the problem."
 
@@ -94,7 +97,7 @@ I should probably re-read The Field Guide to Understanding Human Error
 
 The description for this talk resonates with me. I have come to the same place. Systems are made up of machines with people and any processes and tools we create for ourselves should take this into account. A skilled operator is a huge asset in a system.
 
-IMG SPECTRUM OF AUTOMATION
+![automation spectrum](/images/failoverconf/Screen Shot 2020-04-21 at 3.11.38 PM.png)
 
 [transposit](https://www.transposit.com/) : interactive runbooks
 
